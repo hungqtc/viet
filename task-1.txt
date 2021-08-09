@@ -1,0 +1,4 @@
+Task 1: Git and GitHub
+1. Create a Repository at GitHub
+2. Invite account hungqtc join this Repos
+3. Upload 1 file txt and create a pull request
